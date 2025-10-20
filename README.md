@@ -5,3 +5,5 @@ Our Metric is used in ranking the best perfroming XAI method. The results of XAI
 A Densenet121 model is used to predict the images of MNIST, CIFAR-10 and ImageNet datasets. 
 XAI methods such as Partition SHAP, Gradient SHAP, GradCAM and GradCAM++ are used in all datasets to explain the prediction of model. 
 The ranking based on the metric offers insights into which XAI method perform more effectively for a particular dataset.
+A limited PyTorch Implementation was conducted to facilitate the use of captum and Quantus.
+
