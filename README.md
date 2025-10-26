@@ -6,4 +6,5 @@ A Densenet121 model is used to predict the images of MNIST, CIFAR-10 and ImageNe
 XAI methods such as Partition SHAP, Gradient SHAP, GradCAM and GradCAM++ are used in all datasets to explain the prediction of model. 
 The ranking based on the metric offers insights into which XAI method perform more effectively for a particular dataset.
 A limited PyTorch Implementation was conducted to facilitate the use of captum and Quantus.
+Standard packages like MatplotLib, Scikit Learn, Tensorflow, PyTorch and Specific libraries like SHAP, Captum and Quantus are required to run these notebooks. 
 
